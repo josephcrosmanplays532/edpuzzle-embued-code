@@ -35,4 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-if you want to see my edpuzzle video folder, visit [here](https://josephcrosmanplays532.github.io/edpuzzle-embued-code/video folder.html)
+if you want to see my edpuzzle video folder, visit [here](https://josephcrosmanplays532.github.io/edpuzzle-embued-code/video_folder.html)
